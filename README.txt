@@ -1,3 +1,7 @@
+sudo apt-get install libqt4-dev
+qmake
+make
+
 maxSampleVal=5319
 
 waveformWidgetHeight=400 so range should be -200 to 200

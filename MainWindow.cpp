@@ -51,7 +51,7 @@ MainWindow::MainWindow()
 
     if (DEBUG)
     {
-        const char* filename = "C:\\Users\\brett\\Desktop\\audio\\guitar-44.1k-16bit-stereo.wav";
+        const char* filename = "guitar-44.1k-16bit-stereo.wav";
         loadWavFile(filename);
     }
 }
