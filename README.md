@@ -1,6 +1,12 @@
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
+Building:
+```
 sudo apt-get install libqt4-dev
 qmake
 make
+./WaveExplorer
+```
 
 maxSampleVal=5319
 
